@@ -21,11 +21,9 @@ var just = function(fn) {
     console.log(haiku);
 };
 
-
 poor.old('JavaScript'),
 inserting('semicolons'),
 just(trying.toHelp);
-
 
 /* Don't fret, JavaScript,
    You are flawed, but so am I,
